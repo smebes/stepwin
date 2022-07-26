@@ -7,7 +7,7 @@ class buttonNav extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      height: 72,
+      height: 75,
       color: Color(0xff224A88),
       width: MediaQuery.of(context).size.width,
       child: Row(
